@@ -48,16 +48,3 @@ li {
 	color: black;
 	font-size: 30px;
 } 
-
-.section {
-	display: flex;
-} 
-
-.header { 
-	border-color: red;
-} 
-
-.title {
-	color: black;
-	font-size: 30px;
-} 

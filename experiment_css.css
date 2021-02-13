@@ -36,6 +36,21 @@ li {
 
 .section {
 	display: flex;
+	padding-left: 10px;
+	padding-right: 10px:
+} 
+
+.header { 
+	border-color: red;
+} 
+
+.title {
+	color: black;
+	font-size: 30px;
+} 
+
+.section {
+	display: flex;
 } 
 
 .header { 

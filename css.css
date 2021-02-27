@@ -18,7 +18,7 @@ h2 {
 ul {
 	color: green;
 	font-family: Lucida Handwriting, cursive;
-	border-color: darkturquoise;
+	border-color: lightpink;
 	border-style: solid;
 	border-width: thick;
 	padding-right: 25px;
@@ -38,13 +38,38 @@ li {
 
 .section {
 	display: flex;
+	border-bottom: 2px solid #8D99AE;
 } 
 
-.header { 
-	border-color: red;
-} 
 
 .title {
 	color: black;
 	font-size: 30px;
+	border-color: darkturquoise;
+} 
+
+.table {  
+	color: green;
+	font-family: Lucida Handwriting, cursive;
+	border-color: darkturquoise;
+	border-style: solid;
+	border-width: thick;
+	padding-right: 25px;
+}
+
+.fit-picture {
+	height: 400px;
+}
+
+.kennel {
+	height: 300px;
+}
+
+.canadian_picture {
+	height: 400px;
+	padding-left: 25px;
+}
+
+.here {
+	background-color: yellow;
 } 

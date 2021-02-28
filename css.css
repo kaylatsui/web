@@ -18,7 +18,7 @@ h2 {
 ul {
 	color: green;
 	font-family: Lucida Handwriting, cursive;
-	border-color: lightpink;
+	border-color: lemonchiffon;
 	border-style: solid;
 	border-width: thick;
 	padding-right: 25px;
@@ -58,12 +58,9 @@ li {
 }
 
 .fit-picture {
-	height: 400px;
-}
-
-.kennel {
 	height: 300px;
 }
+
 
 .canadian_picture {
 	height: 400px;

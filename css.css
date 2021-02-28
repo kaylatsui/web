@@ -16,12 +16,16 @@ h2 {
 
 
 ul {
-	color: green;
+	color: black;
 	font-family: Lucida Handwriting, cursive;
 	border-color: lemonchiffon;
 	border-style: solid;
 	border-width: thick;
 	padding-right: 25px;
+}
+
+.other {
+	border: 3px solid black;
 }
 
 p {
@@ -69,4 +73,6 @@ li {
 
 .here {
 	background-color: yellow;
+	border: 3px solid black;
 } 
+

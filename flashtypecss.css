@@ -1,0 +1,63 @@
+body {
+  	background-color: rgb(176,196,222); 
+}
+
+h1 {
+	color: rgb(250,128,114);
+    font: italic small-caps bold 45px sans-serif;
+	text-align:center;
+}
+
+h2 {
+	color: rgb(125,90,114);
+    font: italic small-caps bold sans-serif;
+	text-align:center;
+}
+
+ul {
+	color: black;
+	font-family: Lucida Handwriting, cursive;
+	border-color: peachpuff;
+	border-style: solid;
+	border-width: thick;
+	padding-right: 25px;
+}
+
+.section {
+	display: flex;
+	border-bottom: 2px solid #8D99AE;
+} 
+
+.fit-picture {
+	height: 300px;
+}
+
+
+.GUI{
+	display:flex;
+	justify-content:center; 
+}
+
+a:hover {
+	color:black;
+}
+
+p{
+	text-align: center;
+	font-size: 17px;
+}
+
+
+.table {
+	font-size: 16px;
+	display: flex;
+	
+}
+
+.table > nav {
+    flex:0.5;
+}
+
+.other {
+	color: black;
+}
